@@ -1,4 +1,4 @@
-# Hi there, I'm Hamza Aziz👋
+# Hi there, I'm Hamza Aziz👋🏼
 
 ## I'm a Data Science Enthusiast 📊
 
