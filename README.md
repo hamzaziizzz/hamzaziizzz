@@ -45,3 +45,20 @@
 <img align="left" alt="Microsoft Excel" width="30px" src="./img/excel-logo.png" style="padding-right:10px; padding-left:20px;">
 
 <img align="left" alt="Linux OS" width="30px" src="./img/linux-logo.png" style="padding-right:10px; padding-left:20px;">
+
+<br />
+<br />
+
+---
+
+### 📑 Latest Blog Posts
+
+- [Data Analysis vs Data Analytics](https://hamzaziizzz.hashnode.dev/data-analysis-vs-data-analytics)
+
+---
+
+### 📙 Books I've Read
+
+- Think Like a Monk: Train Your Mind for Peace and Purpose Every Day *by Jay Shetty*
+- Quiet: The Power of Introverts in a World That Can't Stop Talking *by Susan Cain*
+- The Introvert Entrepreneur *by Beth Buelow*
