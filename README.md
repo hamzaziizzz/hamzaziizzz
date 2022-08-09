@@ -51,14 +51,14 @@
 
 ---
 
-### 📑 Latest Blog Posts
-
-- [Data Analysis vs Data Analytics](https://hamzaziizzz.hashnode.dev/data-analysis-vs-data-analytics)
-
----
-
 ### 📙 Books I've Read
 
 - Think Like a Monk: Train Your Mind for Peace and Purpose Every Day *by Jay Shetty*
 - Quiet: The Power of Introverts in a World That Can't Stop Talking *by Susan Cain*
 - The Introvert Entrepreneur *by Beth Buelow*
+
+---
+
+### 📑 Latest Blog Posts
+
+- [Data Analysis vs Data Analytics](https://hamzaziizzz.hashnode.dev/data-analysis-vs-data-analytics)
