@@ -9,6 +9,8 @@
 
 ### Connect with me
 
+<a href="https://hamzaziizzz.github.io/" target="_blank"><img src="./img/globe.svg" width="30px" align="left" style="padding-right:20px; padding-left:20px;"></a>
+
 <a href="https://www.linkedin.com/in/hamzaziizzz/" target="_blank"><img src="./img/linkedin.svg" width="30px" align="left" style="padding-right:20px; padding-left:20px;"></a>
 
 <a href="https://www.twitter.com/hamzaziizzz" target="_blank"><img src="./img/twitter.svg" width="30px" align="left" style="padding-right:20px; padding-left:20px;"></a>
