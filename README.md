@@ -1,4 +1,4 @@
-# Hi there, I'm Hamza Aziz👋🏼
+# Hi there, I'm Hamza Aziz👋
 
 ## I'm a Data Science Enthusiast 📊
 
@@ -64,3 +64,8 @@
 ### 📑 Latest Blog Posts
 
 - [Data Analysis vs Data Analytics](https://hamzaziizzz.hashnode.dev/data-analysis-vs-data-analytics)
+
+---
+
+## Holopin Board
+[![@hamzaziizzz's Holopin board](https://holopin.io/api/user/board?user=hamzaziizzz)](https://holopin.io/@hamzaziizzz)
