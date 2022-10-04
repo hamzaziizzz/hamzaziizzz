@@ -48,6 +48,8 @@
 
 <img align="left" alt="Linux OS" width="30px" src="./img/linux-logo.png" style="padding-right:10px; padding-left:20px;">
 
+<img align="left" alt="Docker" width="30px" src="./img/docker-logo.png" style="padding-right:10px; padding-left:20px;">
+
 <br />
 <br />
 
