@@ -1,4 +1,4 @@
-# Hi there, I'm Hamza Aziz👋
+# Hi there, I'm Hamza Aziz <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
 ## I'm a Data Science Enthusiast 📊
 
