@@ -69,5 +69,13 @@
 
 ---
 
+## 📈 GitHub Stats
+
+![hamzaziizzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaziizzz&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaziizzz&layout=compact&theme=radical)](https://github.com/hamzaziizzz/github-readme-stats)
+
+---
+
 ## Holopin Board
 [![@hamzaziizzz's Holopin board](https://holopin.io/api/user/board?user=hamzaziizzz)](https://holopin.io/@hamzaziizzz)
