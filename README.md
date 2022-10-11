@@ -75,9 +75,9 @@
 
 ## 📈 GitHub Stats
 
-![hamzaziizzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaziizzz&show_icons=true&theme=radical)
+![hamzaziizzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaziizzz&show_icons=true&theme=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaziizzz&layout=compact&theme=radical)](https://github.com/hamzaziizzz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaziizzz&layout=compact&theme=white)](https://github.com/hamzaziizzz/github-readme-stats)
 
 ---
 
