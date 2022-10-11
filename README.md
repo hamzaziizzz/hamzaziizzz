@@ -76,7 +76,7 @@
 
 ## My Portfolio: <a href="https://hamzaziizzz.me/"><img src="https://img.shields.io/badge/Portfolio-%5311111.svg?style=for-the-badge&logo=Github&style=flat&logoColor=maroon"/></a>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hamzaziizzz?cardType=github)](https://git.io/awesome-stats-card)
+<img src="https://github-readme-stats.vercel.app/api?username=hamzaziizzz&&show_icons=true&count_private=true&theme=white" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaziizzz"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaziizzz&layout=compact&theme=white)](https://github.com/hamzaziizzz/github-readme-stats)
 
