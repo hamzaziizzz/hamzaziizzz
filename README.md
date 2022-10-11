@@ -78,6 +78,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=hamzaziizzz&&show_icons=true&count_private=true&theme=white" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaziizzz"/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaziizzz&layout=compact&theme=white)](https://github.com/hamzaziizzz/github-readme-stats)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=hamzaziizzz&theme=#B22222" />
