@@ -3,6 +3,7 @@
 </p>
 
 # Hi there, I'm Hamza Aziz <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaziizzz" alt="hamzaziizzz" /> </p>
 
 ## I'm a Data Science Enthusiast 📊
 
@@ -73,11 +74,13 @@
 
 ---
 
-## 📈 GitHub Stats
+## My Portfolio: <a href="https://hamzaziizzz.me/"><img src="https://img.shields.io/badge/Portfolio-%5311111.svg?style=for-the-badge&logo=Github&style=flat&logoColor=maroon"/></a>
 
-![hamzaziizzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaziizzz&show_icons=true&theme=white)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hamzaziizzz?cardType=github)](https://git.io/awesome-stats-card)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaziizzz"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaziizzz&layout=compact&theme=white)](https://github.com/hamzaziizzz/github-readme-stats)
+
+<img src="https://activity-graph.herokuapp.com/graph?username=hamzaziizzz&theme=#B22222" />
 
 ---
 
