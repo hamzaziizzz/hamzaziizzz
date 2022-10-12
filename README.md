@@ -74,7 +74,7 @@
 
 ---
 
-## My Portfolio: <a href="https://hamzaziizzz.me/"><img src="https://img.shields.io/badge/Portfolio-%5311111.svg?style=for-the-badge&logo=Github&style=flat&logoColor=maroon"/></a>
+## 📈 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=hamzaziizzz&&show_icons=true&count_private=true&theme=white" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaziizzz"/>
