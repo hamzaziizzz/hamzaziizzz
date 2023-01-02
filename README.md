@@ -81,8 +81,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaziizzz&layout=compact&theme=white)](https://github.com/hamzaziizzz/github-readme-stats)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=hamzaziizzz&theme=#B22222" />
-
 ---
 
 ## Holopin Board
