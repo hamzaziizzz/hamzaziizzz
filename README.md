@@ -8,7 +8,7 @@
 ## I'm a Data Science Enthusiast 📊
 
 - 🔭 Currently, I am pursuing my Bachelor of Technology in Computer Science and Engineering from [ABES Intitute Of Technology, Ghaziabad](https://www.abesit.in/)
-- 🌱 I’m currently working as AI Intern @Global InfoVentures Pvt. Ltd.
+- 🌱 I’m currently working as Assistant AI Engineer @Global InfoVentures Pvt. Ltd.
 - 🥅 2024 Goal: Enhance my Data Science Skills and step into field of Artificial Intelligence and Machine Learning.
 - ⚡ Fun fact: I love to portrait sketches and to read books
 
