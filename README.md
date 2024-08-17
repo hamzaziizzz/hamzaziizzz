@@ -76,6 +76,7 @@
 <img align="left" alt="Redis" width="30px" src="./img/redis.svg" style="padding-right:10px; padding-left:20px;">
 
 <br>
+<br>
 
 ### Other Softwares
 
