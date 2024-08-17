@@ -5,16 +5,16 @@
 # Hi there, I'm Hamza Aziz <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaziizzz" alt="hamzaziizzz" /> </p>
 
-## I'm a Data Science Enthusiast 📊
+## I'm an Artificial Intelligence Engineer 📊
 
-- 🔭 Currently, I am pursuing my Bachelor of Technology in Computer Science and Engineering from [ABES Intitute Of Technology, Ghaziabad](https://www.abesit.in/)
-- 🌱 I’m currently working as Assistant AI Engineer @Global InfoVentures Pvt. Ltd.
-- 🥅 2024 Goal: Enhance my Data Science Skills and step into field of Artificial Intelligence and Machine Learning.
-- ⚡ Fun fact: I love to portrait sketches and to read books
+- 🌱 Currently working as Assistant AI Engineer [@Global InfoVentures Pvt. Ltd](https://giindia.com/).
+- 🔭 Developing and integrating AI-driven solutions like Conversational AI for SIM Portal and Multi-Person Face Recognition systems into the G5 Portal.
+- 🥅 2024 Goal: Enhance my expertise in Conversational AI and Machine Learning.
+- ⚡ Fun fact: I enjoy sketching portraits and reading thought-provoking books.
 
 ### Connect with me
 
-<a href="https://hamzaziizzz.me/" target="_blank"><img src="./img/globe.svg" width="30px" align="left" style="padding-right:20px; padding-left:20px;"></a>
+<a href="https://hamzaziizzz.github.io/" target="_blank"><img src="./img/globe.svg" width="30px" align="left" style="padding-right:20px; padding-left:20px;"></a>
 
 <a href="https://www.linkedin.com/in/hamzaziizzz/" target="_blank"><img src="./img/linkedin.svg" width="30px" align="left" style="padding-right:20px; padding-left:20px;"></a>
 
