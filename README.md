@@ -7,10 +7,10 @@
 
 ## I'm an Artificial Intelligence Engineer 📊
 
-- 🌱 Currently working as Assistant AI Engineer [@Global InfoVentures Pvt. Ltd](https://giindia.com/).
-- 🔭 Developing and integrating AI-driven solutions like Conversational AI for SIM Portal and Multi-Person Face Recognition systems into the G5 Portal.
-- 🥅 2024 Goal: Enhance my expertise in Conversational AI and Machine Learning.
-- ⚡ Fun fact: I enjoy sketching portraits and reading thought-provoking books.
+- 💼 Currently working as Assistant AI Engineer at [Global InfoVentures Pvt. Ltd.](https://giindia.com/)
+- 🚀 Developing and integrating AI-driven solutions like Conversational AI for SIM Portal and Multi-Person Face Recognition systems into the G5 Portal.
+- 🎓 Bachelor of Technology in Computer Science and Engineering from [ABES Institute Of Technology, Ghaziabad](https://www.abesit.in/)
+- 🎯 2024 Goal: Enhance my expertise in Conversational AI and Machine Learning.
 
 ### Connect with me
 
@@ -19,6 +19,8 @@
 <a href="https://www.linkedin.com/in/hamzaziizzz/" target="_blank"><img src="./img/linkedin.svg" width="30px" align="left" style="padding-right:20px; padding-left:20px;"></a>
 
 <a href="https://www.twitter.com/hamzaziizzz" target="_blank"><img src="./img/twitter.svg" width="30px" align="left" style="padding-right:20px; padding-left:20px;"></a>
+
+<a href="https://medium.com/@hamzaziizzz" target="_blank"><img src="./img/medium.svg" width="30px" align="left" style="padding-right:20px; padding-left:20px; vertical-align:middle;"></a>
 
 <a href="https://www.instagram.com/hamzaziizzz" target="_blank"><img src="./img/instagram.svg" width="30px" align="left" style="padding-right:20px; padding-left:20px; vertical-align:middle;"></a>
 
@@ -92,16 +94,12 @@
 
 ---
 
-### 📙 Books I've Read
-
-- Think Like a Monk: Train Your Mind for Peace and Purpose Every Day *by Jay Shetty*
-- Quiet: The Power of Introverts in a World That Can't Stop Talking *by Susan Cain*
-- The Introvert Entrepreneur *by Beth Buelow*
-
----
-
 ### 📑 Latest Blog Posts
 
+- [OpenCV, PyTorch and TensorFlow for Jetson Nano](https://medium.com/ai-mind-labs/opencv-pytorch-and-tensorflow-for-jetson-nano-c49ab7050fb5)
+- [Implementing InceptionNet: A Journey into Multi-Scale Convolutional Networks](https://medium.com/ai-mind-labs/implementing-inceptionnet-a-journey-into-multi-scale-convolutional-networks-53130a531ff)
+- [Mastering VGG from Scratch: A Journey of Learning and Growth in Computer Vision](https://medium.com/ai-mind-labs/mastering-vgg-from-scratch-a-journey-of-learning-and-growth-in-computer-vision-ada74a72327f)
+- [ResNet-50 Implementation](https://medium.com/ai-mind-labs/resnet-50-implementation-8bde36f2301a)
 - [Data Analysis vs Data Analytics](https://hamzaziizzz.hashnode.dev/data-analysis-vs-data-analytics)
 
 ---
