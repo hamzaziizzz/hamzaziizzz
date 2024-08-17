@@ -27,36 +27,67 @@
 <br />
 <br />
 
-### Languages and Tools
+## Skills
+
+### Programming and AI/ML
 
 <img align="left" alt="Python" width="30px" src="./img/python-logo.png" style="padding-right:20px; padding-left:20px;">
 
-<img align="left" alt="Java" width="30px" src="./img/java-logo.png" style="padding-right:20px; padding-left:20px;">
+<img align="left" alt="Rasa" width="30px" src="./img/rasa.png" style="padding-right:20px; padding-left:20px;">
 
-<img align="left" alt="Numpy" width="30px" src="./img/numpy-logo.png" style="padding-right:20px; padding-left:20px;">
+<img align="left" alt="TensorFlow" width="30px" src="./img/tensorflow-2.svg" style="padding-right:20px; padding-left:20px;">
 
-<img align="left" alt="Pandas" width="30px" src="./img/pandas-logo.png" style="padding-right:20px; padding-left:20px;">
+<img align="left" alt="PyTorch" width="30px" src="./img/pytorch-2.svg" style="padding-right:20px; padding-left:20px;">
 
-<img align="left" alt="Matplotlib" width="30px" src="./img/matplotlib-logo.png" style="padding-right:20px; padding-left:20px;">
+<img align="left" alt="OpenCV" width="30px" src="./img/opencv.svg" style="padding-right:20px; padding-left:20px;">
 
-<img align="left" alt="Seaborn" width="30px" src="./img/seaborn-logo.png" style="padding-right:20px; padding-left:20px;">
+<img align="left" alt="TensorRT" width="30px" src="./img/nvidia.svg" style="padding-right:20px; padding-left:20px;">
 
-<img align="left" alt="Statsmodels" width="30px" src="./img/statsmodels-logo.png" style="padding-right:20px; padding-left:20px;">
+<br>
 
-<img align="left" alt="Scikit Learn" width="30px" src="./img/scikit-learn-logo.png" style="padding-right:10px; padding-left:20px;">
+### Web Development
 
-<img align="left" alt="MySQL" width="30px" src="./img/mysql-logo.png" style="padding-right:10px; padding-left:20px;">
+<img align="left" alt="HTML" width="30px" src="./img/html-1.svg" style="padding-right:20px; padding-left:20px;">
 
-<img align="left" alt="Tableau" width="30px" src="./img/tableau-logo.png" style="padding-right:10px; padding-left:20px;">
+<img align="left" alt="CSS" width="30px" src="./img/css-3.svg" style="padding-right:10px; padding-left:20px;">
 
-<img align="left" alt="Microsoft Excel" width="30px" src="./img/excel-logo.png" style="padding-right:10px; padding-left:20px;">
+<img align="left" alt="JavaScript" width="30px" src="./img/logo-javascript.svg" style="padding-right:10px; padding-left:20px;">
 
-<img align="left" alt="Linux OS" width="30px" src="./img/linux-logo.png" style="padding-right:10px; padding-left:20px;">
+<img align="left" alt="Flask" width="30px" src="./img/flask-icon.svg" style="padding-right:10px; padding-left:20px;">
 
-<img align="left" alt="Docker" width="30px" src="./img/docker-logo.png" style="padding-right:10px; padding-left:20px;">
+<img align="left" alt="FastAPI" width="30px" src="./img/fastapi-1.svg" style="padding-right:10px; padding-left:20px;">
 
-<br />
-<br />
+<br>
+
+### Deployemnt and Containerization
+
+<img align="left" alt="Docker" width="30px" src="./img/docker-4.svg" style="padding-right:10px; padding-left:20px;">
+
+<br>
+
+### Databse and Backend Technologies
+
+<img align="left" alt="Milvus" width="30px" src="./img/milvus-icon-color.png" style="padding-right:10px; padding-left:20px;">
+
+<img align="left" alt="Kafka" width="30px" src="./img/kafka.svg" style="padding-right:10px; padding-left:20px;">
+
+<img align="left" alt="Neo4j" width="30px" src="./img/neo4j.svg" style="padding-right:10px; padding-left:20px;">
+
+<img align="left" alt="Redis" width="30px" src="./img/redis.svg" style="padding-right:10px; padding-left:20px;">
+
+<br>
+
+### Other Softwares
+
+<img align="left" alt="Linux OS" width="30px" src="./img/git-icon.svg" style="padding-right:10px; padding-left:20px;">
+
+<img align="left" alt="Linux OS" width="30px" src="./img/github-icon-1.svg" style="padding-right:10px; padding-left:20px;">
+
+<img align="left" alt="Linux OS" width="30px" src="./img/tux.svg" style="padding-right:10px; padding-left:20px;">
+
+
+<br>
+<br>
 
 ---
 
