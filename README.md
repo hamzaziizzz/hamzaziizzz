@@ -5,7 +5,7 @@
 # Hi there, I'm Hamza Aziz <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaziizzz" alt="hamzaziizzz" /> </p>
 
-## I'm an Artificial Intelligence Engineer 📊
+## I'm an Artificial Intelligence Engineer 🤖
 
 - 💼 Currently working as Assistant AI Engineer at [Global InfoVentures Pvt. Ltd.](https://giindia.com/)
 - 🚀 Developing and integrating AI-driven solutions like Conversational AI for SIM Portal and Multi-Person Face Recognition systems into the G5 Portal.
@@ -94,7 +94,7 @@
 
 ---
 
-### 📑 Latest Blog Posts
+### 📝 Latest Blog Posts
 
 - [OpenCV, PyTorch and TensorFlow for Jetson Nano](https://medium.com/ai-mind-labs/opencv-pytorch-and-tensorflow-for-jetson-nano-c49ab7050fb5)
 - [Implementing InceptionNet: A Journey into Multi-Scale Convolutional Networks](https://medium.com/ai-mind-labs/implementing-inceptionnet-a-journey-into-multi-scale-convolutional-networks-53130a531ff)
