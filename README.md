@@ -117,12 +117,18 @@ I build production-grade AI systems end-to-end — from on-device facial recogni
 
 ## 📈 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzaziizzz&show_icons=true&count_private=true&theme=white" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaziizzz&theme=default" />
-</p>
+<!--
+  github-metrics.svg is generated weekly by .github/workflows/metrics.yml
+  (using lowlighter/metrics) and committed to this repo, so the image is
+  served straight from GitHub — no third-party host that can 503.
+-->
+<a href="https://github.com/hamzaziizzz">
+  <img src="github-metrics.svg" alt="GitHub metrics for @hamzaziizzz" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaziizzz&layout=compact&theme=white)](https://github.com/hamzaziizzz/github-readme-stats)
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaziizzz&theme=default" alt="GitHub streak" />
+</p>
 
 ---
 
