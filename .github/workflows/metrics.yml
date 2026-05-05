@@ -50,3 +50,9 @@ jobs:
           # METRICS_TOKEN secret is configured (see workflow header notes).
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          # The isocalendar plugin renders its chart with a hardcoded inline
+          # style="margin-top: -130px;" so the heatmap overlaps the row of
+          # streak stats above it. Push it back down by overriding that
+          # inline style (inline beats external CSS without !important).
+          extras_css: |
+            svg[viewBox="0,0 480,270"] { margin-top: 16px !important; }
