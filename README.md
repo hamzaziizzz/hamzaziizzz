@@ -121,13 +121,13 @@ I build production-grade AI systems end-to-end — from on-device facial recogni
   github-metrics.svg is generated weekly by .github/workflows/metrics.yml
   (using lowlighter/metrics) and committed to this repo, so the image is
   served straight from GitHub — no third-party host that can 503.
+  Commit-streak data is included inside the card via base_indepth, so a
+  separate streak widget would only duplicate it.
 -->
-<a href="https://github.com/hamzaziizzz">
-  <img src="github-metrics.svg" alt="GitHub metrics for @hamzaziizzz" />
-</a>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaziizzz&theme=default" alt="GitHub streak" />
+<p align="center">
+  <a href="https://github.com/hamzaziizzz">
+    <img src="github-metrics.svg" alt="GitHub metrics for @hamzaziizzz" />
+  </a>
 </p>
 
 ---
