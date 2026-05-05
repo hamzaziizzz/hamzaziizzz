@@ -21,12 +21,17 @@ I build production-grade AI systems end-to-end — from on-device facial recogni
 ### Connect with me
 
 <p align="left">
-  <a href="https://hamzaziizzz.github.io/" target="_blank"><img src="./img/globe.svg" width="30px" style="padding-right:20px;" /></a>
-  <a href="https://www.linkedin.com/in/hamzaziizzz/" target="_blank"><img src="./img/linkedin.svg" width="30px" style="padding-right:20px;" /></a>
-  <a href="https://twitter.com/hamzaziizzz" target="_blank"><img src="./img/twitter.svg" width="30px" style="padding-right:20px;" /></a>
-  <a href="https://medium.com/@hamzaziizzz" target="_blank"><img src="./img/medium.svg" width="30px" style="padding-right:20px;" /></a>
-  <a href="https://www.instagram.com/hamzaziizzz" target="_blank"><img src="./img/instagram.svg" width="30px" style="padding-right:20px;" /></a>
-  <a href="https://www.facebook.com/hamzaziizzz/" target="_blank"><img src="./img/facebook.svg" width="30px" style="padding-right:20px;" /></a>
+  <a href="https://hamzaziizzz.github.io/" target="_blank"><img src="./img/globe.svg" height="32" alt="Portfolio" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hamzaziizzz/" target="_blank"><img src="./img/linkedin.svg" height="32" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/hamzaziizzz" target="_blank"><img src="./img/twitter.svg" height="32" alt="Twitter / X" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@hamzaziizzz" target="_blank"><img src="./img/medium.svg" height="32" alt="Medium" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/hamzaziizzz" target="_blank"><img src="./img/instagram.svg" height="32" alt="Instagram" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/hamzaziizzz/" target="_blank"><img src="./img/facebook.svg" height="32" alt="Facebook" /></a>
 </p>
 
 ---
